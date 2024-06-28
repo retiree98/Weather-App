@@ -1,0 +1,16 @@
+@media (max-width: 992px) {
+  .site-header ul {
+    background: #262936;
+    border-radius: 10px;
+  }
+  .site-header ul li {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  .site-header ul li a.nav-link {
+    padding: 20px !important;
+    text-align: center;
+  }
+  .site-header a.nav-link.active {
+    color: #009ad8;
+  }
+}
